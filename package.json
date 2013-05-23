@@ -1,0 +1,8 @@
+{
+    "name": "MetOfficeData",
+    "description": "Derive graphs from Met Office data",
+    "version": "0.1.0",
+    "author": "Mick Sear",
+    "dependencies": {},
+    "devDependencies": {}
+}
