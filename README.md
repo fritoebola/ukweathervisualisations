@@ -25,8 +25,10 @@ collaboration would be appreciated.
 ### Installation
 
 With Node.js and MongoDB installed, you can install other dependencies with   
-`npm install moment   
-npm install mongodb`
+`
+    npm install moment   
+    npm install mongodb
+`   
 
 Then run 
 
