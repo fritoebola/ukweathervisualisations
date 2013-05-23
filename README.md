@@ -1,7 +1,6 @@
-ukweathervisualisations
-=======================
+# ukweathervisualisations
 
-D3 visualisations of UK Met Office data
+## D3 visualisations of UK Met Office data
 
 This project was originally going to be Java based, but I've just discovered Node.js, and it was trivially easy
 to code in that.  
@@ -22,3 +21,15 @@ haven't wavered?
 This project is a bit of an exercise.  I use MongoDB in my daily life already and have done for a couple of years, 
 but this gives me some more exposure to D3.js and Node.js, both of which are truly great tools.  Any comments or
 collaboration would be appreciated.
+
+### Installation
+
+With Node.js and MongoDB installed, you can install other dependencies with 
+`npm install moment`
+`npm install mongodb`
+
+Then run 
+
+`node app.js`
+
+Press CTRL-C to stop it.  I'll get a bit more sophisticated in future...
